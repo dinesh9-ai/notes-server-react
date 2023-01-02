@@ -1,0 +1,7 @@
+html {    
+    background: url('./images/home.svg') no-repeat center fixed;     
+    background-size: contain;
+    background-color: black;
+}
+
+

@@ -1,0 +1,26 @@
+.space{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3%;
+}
+
+.q{
+    background-image: url('../../../public/images/home.svg') no-repeat center fixed;     
+    background-size: contain;
+    background-color: black;
+    padding-bottom: 5%;
+    overflow-x: visible;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 100vh;
+}
+
+.card-body{
+    background-color: #7DFAC6;
+}
+.card-header{
+    background-color: #7E72FD;
+}

@@ -1,0 +1,13 @@
+.imgg{
+    margin-top: 10%;
+    width: 350px;
+    background-color: black;
+}
+
+.bgg{
+    height: 100vh;
+
+    background-size: contain;
+    background-color: black;
+}
+
